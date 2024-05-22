@@ -1,4 +1,2 @@
 # flextrack
-The ultimate companion for achieving your fitness goals
-
-test commit
+Your AI personal trainer to achieve your fitness goals.
